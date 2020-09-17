@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/devsuperior/static/css/main.c7d4d60a.chunk.css",
+    "main.js": "/devsuperior/static/js/main.03e57ca5.chunk.js",
+    "main.js.map": "/devsuperior/static/js/main.03e57ca5.chunk.js.map",
+    "runtime-main.js": "/devsuperior/static/js/runtime-main.4449d1fc.js",
+    "runtime-main.js.map": "/devsuperior/static/js/runtime-main.4449d1fc.js.map",
+    "static/js/2.9bb452bc.chunk.js": "/devsuperior/static/js/2.9bb452bc.chunk.js",
+    "static/js/2.9bb452bc.chunk.js.map": "/devsuperior/static/js/2.9bb452bc.chunk.js.map",
+    "index.html": "/devsuperior/index.html",
+    "precache-manifest.abb5e5ab4db2214a041d9e338521e0c6.js": "/devsuperior/precache-manifest.abb5e5ab4db2214a041d9e338521e0c6.js",
+    "service-worker.js": "/devsuperior/service-worker.js",
+    "static/css/main.c7d4d60a.chunk.css.map": "/devsuperior/static/css/main.c7d4d60a.chunk.css.map",
+    "static/js/2.9bb452bc.chunk.js.LICENSE.txt": "/devsuperior/static/js/2.9bb452bc.chunk.js.LICENSE.txt",
+    "static/media/arrow.c0881432.svg": "/devsuperior/static/media/arrow.c0881432.svg",
+    "static/media/gamer.8d5d159e.svg": "/devsuperior/static/media/gamer.8d5d159e.svg",
+    "static/media/logo.efb91873.svg": "/devsuperior/static/media/logo.efb91873.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4449d1fc.js",
+    "static/js/2.9bb452bc.chunk.js",
+    "static/css/main.c7d4d60a.chunk.css",
+    "static/js/main.03e57ca5.chunk.js"
+  ]
+}
