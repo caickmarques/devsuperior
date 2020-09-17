@@ -9,13 +9,13 @@ const Routes = () => (
     <BrowserRouter>
     <Header />
         <Switch>
-            <Route path="devsuperior/" exact>
+            <Route path="/devsuperior/" exact>
                 <Home />
             </Route>
-            <Route path="devsuperior/records">
+            <Route path="/records">
                 <Records />
             </Route>
-            <Route path="devsuperior/charts">
+            <Route path="/charts">
                 <Charts />
             </Route>
         </Switch>
