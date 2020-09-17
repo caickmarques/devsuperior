@@ -2,6 +2,7 @@ import React from 'react';
 import './styles.css'
 import {ReactComponent as ArrowIcon} from '../../assets/arrow.svg'
 import {ReactComponent as GamerImage} from '../../assets/gamer.svg'
+import { Link } from 'react-router-dom';
 
 const Home = () => (
     <div>
@@ -13,6 +14,7 @@ const Home = () => (
                 <h3 className="home-text-subtitle">
                     Clique no botão abaixo e saiva quais os jogos que os gamers estão escolhendo
                 </h3>
+                <Link to="/records">
                 <div className="home-actions">
                     <button className="home-btn">
                         Quero saber quais são
@@ -20,8 +22,8 @@ const Home = () => (
                     <div className="home-btn-icon">
                         <ArrowIcon/>
                     </div>
-
                 </div>
+                </Link>
             </div>
         <GamerImage className="home-image"/>
         </div>
