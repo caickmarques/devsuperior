@@ -4,7 +4,6 @@ import "./styles.css";
 import { RecordsResponse } from "./types";
 import { formatDate } from './helpers';
 import Pagination from './Pagination'
-import { Link } from "react-router-dom";
 import Filters from '../../components/Filters'
 
 
