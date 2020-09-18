@@ -185,8 +185,7 @@ const styles = StyleSheet.create({
         marginBottom: 21
     },
     platformContainer: {
-        marginTop: 50,
-        marginBottom: 50,
+        marginBottom: 20,
         flexDirection: 'row',
         justifyContent: 'space-between',
     },
