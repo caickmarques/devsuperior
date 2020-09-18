@@ -14,7 +14,7 @@ const placeholder = {
     value: null
 }
 
-const URL = 'http://192.168.155.58:8080';
+const URL = 'https://sds1-caick.herokuapp.com';
 
 const mapSelectValue = (games: Game[]) => {
     return games.map(game => ({
